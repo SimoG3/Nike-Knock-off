@@ -1,0 +1,1 @@
+console.log("abibas>>crocodilo niko NONONONONO")
